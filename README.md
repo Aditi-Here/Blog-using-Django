@@ -1,4 +1,4 @@
-# Blog-using-Django
+# Personal-Blog-using-Django
 Created a Personal Blog
 
 
